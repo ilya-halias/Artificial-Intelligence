@@ -69,3 +69,8 @@
     position: relative;
     border: 1px;
 }
+.list-logo-ipsum{
+    display: flex;
+    gap: 72px;
+
+}

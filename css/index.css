@@ -1,0 +1,40 @@
+
+@import "header.css";
+@import "security.css";
+@import "apply.css";
+@import "solutions.css";
+@import "footer.css";
+@import "slider.css";
+
+h1, h1, h3, h4, h5{
+    margin: 0 auto;
+    padding: 0;
+
+}
+body {
+    overflow-x: hidden;
+    max-width: 1920px;
+    background: #08101e;
+    font-family: 'Open Sans', sans-serif, Dialog;
+}
+
+img {
+    pointer-events: none;
+}
+
+button {
+    cursor: pointer;
+}
+ul{
+    list-style: none;
+}
+
+input {
+    outline: none;
+}
+
+* {
+    margin: 0 ;
+    padding: 0;
+    color: #FFFFFF;
+}

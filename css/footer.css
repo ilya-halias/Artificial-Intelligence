@@ -1,0 +1,87 @@
+.container-footer{
+    padding: 77px 357px 148px 424px;
+    display:flex;
+    background:#0A151F ;
+}
+.footer-contacts{
+    max-width: 261px;
+}
+
+.footer-logo-desc{
+    margin-top: 7.8px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #3A68B8;
+}
+.footer-logo-lorem{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 18px;
+    opacity: 0.6;
+    margin: 10px 0 17px;
+}
+.footer-contacts-type{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 20px;
+}
+.footer-information{
+    margin: 17px 0 0 31px;
+    max-width: 182px;
+}
+#language{
+    background: #0A151F;
+    color: white;
+    border: none;
+}
+.footer-title{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 12px;
+}
+.footer-store{
+    max-width: 261px;
+}
+.footer-paragraph{
+    margin-top: 20px;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 18px;
+     opacity: 0.6;
+}
+.footer-address{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+}
+.footer-social-img{
+    margin-top: 21px;
+    display: flex;
+    gap: 25px;
+}
+.footer-language{
+    margin-top: 25px;
+}
+.footer-paragraph-bottom{
+    margin: 20px 0 25px;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 18px;
+    opacity: 0.6;
+}

@@ -1,0 +1,33 @@
+.slider{
+    background-color: #0A151F;
+    max-width: 302px;
+    border-radius: 10px;
+    padding: 30px 30px;
+    margin-right: 30px;
+    align-items: center;
+}
+.circle1{
+    padding-bottom: 47px;
+    margin: 0 auto;
+}
+.circle{
+    padding-bottom: 30px;
+    margin: 0 auto;
+}
+.slider-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 125%;
+    text-align: center;
+    opacity: 0.7;
+}
+.slider-lorem{
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    opacity: 0.7;
+}

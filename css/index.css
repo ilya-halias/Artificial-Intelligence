@@ -33,6 +33,10 @@ input {
     outline: none;
 }
 
+a, button {
+    cursor: pointer;
+}
+
 * {
     margin: 0 ;
     padding: 0;
